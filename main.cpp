@@ -1,3 +1,9 @@
+// This is an example codes of digital clock on a four 7-seg LED display
+// This code implements a digital clock on a four 7-segment LED display 
+//  using an SN74HC595N shift register on a KL46Z development board.
+//  Here's a breakdown of how it works:
+
+
 #include "mbed.h"
 #include "ShiftOut.h"
 
